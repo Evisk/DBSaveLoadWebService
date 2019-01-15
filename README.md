@@ -18,13 +18,13 @@ LastName varchar (255),
 Age int
 )
 
-INSERT INTO Employee(FirstName,LastName,Age) VALUES ('FirstTestName','LastTestName',16)
-INSERT INTO Employee(FirstName,LastName,Age) VALUES ('SecondTestName','LastTestName',120)
-INSERT INTO Employee(FirstName,LastName,Age) VALUES ('ThirdTestName','LastTestName',162)
-INSERT INTO Employee(FirstName,LastName,Age) VALUES ('FourthTestName','LastTestName',11)
-INSERT INTO Employee(FirstName,LastName,Age) VALUES ('FifthTestName','LastTestName',200)
-INSERT INTO Employee(FirstName,LastName,Age) VALUES ('SixthTestName','LastTestName',30)
-INSERT INTO Employee(FirstName,LastName,Age) VALUES ('SeventhTestName','LastTestName',82)
+INSERT INTO Employee(FirstName,LastName,Age) VALUES ('FirstTestName','LastTestName',16)  
+INSERT INTO Employee(FirstName,LastName,Age) VALUES ('SecondTestName','LastTestName',120)  
+INSERT INTO Employee(FirstName,LastName,Age) VALUES ('ThirdTestName','LastTestName',162)  
+INSERT INTO Employee(FirstName,LastName,Age) VALUES ('FourthTestName','LastTestName',11)  
+INSERT INTO Employee(FirstName,LastName,Age) VALUES ('FifthTestName','LastTestName',200)  
+INSERT INTO Employee(FirstName,LastName,Age) VALUES ('SixthTestName','LastTestName',30)  
+INSERT INTO Employee(FirstName,LastName,Age) VALUES ('SeventhTestName','LastTestName',82)  
 
 
 SELECT * FROM Employee
