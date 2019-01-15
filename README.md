@@ -1,9 +1,9 @@
-# DBSaveLoadWebService
-DB Excel Load/Save WebService
+# DBSaveLoadWebService  
+DB Excel Load/Save WebService  
 
-Install SQLExpress 2017
-Install Microsoft SQL Server Managment Studio
-Connect to SQL Server, make note of server name if different then SQLExpress write it down
+Install SQLExpress 2017  
+Install Microsoft SQL Server Managment Studio  
+Connect to SQL Server, make note of server name if different then SQLExpress write it down  
 
 Run Query
 
