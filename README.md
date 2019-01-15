@@ -11,11 +11,11 @@ CREATE DATABASE Employee
 
 USE Employee
 
-CREATE TABLE Employee(
-ID int PRIMARY KEY identity(1,1),
-FirstName varchar(255),
-LastName varchar (255),
-Age int
+CREATE TABLE Employee(  
+ID int PRIMARY KEY identity(1,1),  
+FirstName varchar(255),  
+LastName varchar (255),  
+Age int  
 )
 
 INSERT INTO Employee(FirstName,LastName,Age) VALUES ('FirstTestName','LastTestName',16)  
